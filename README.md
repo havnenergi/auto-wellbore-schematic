@@ -33,6 +33,10 @@ Every number in the mockup is synthetic, made to resemble a deviated North Sea p
 
 The concept plans to use Equinor's open [Volve dataset](https://www.equinor.com/energy/volve-data-sharing) for real wells. No Volve data is included in this repository; it is covered by Equinor's own licence.
 
+## Related
+
+This is one of four candidate projects in [havnenergi/hackathon-ideas](https://github.com/havnenergi/hackathon-ideas), which compares them and collects votes.
+
 ## Licence
 
 [MIT](LICENSE)
