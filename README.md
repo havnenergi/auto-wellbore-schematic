@@ -13,7 +13,9 @@ A hackathon concept: draw a complete, checked wellbore schematic automatically f
 
 ## Viewing the mockup
 
-Open `mockup/index.html` in a browser. It needs no build step or server; fonts load from Google Fonts.
+**Live:** https://havnenergi.github.io/auto-wellbore-schematic/mockup/
+
+Or open `mockup/index.html` locally in a browser. It needs no build step or server; fonts load from Google Fonts.
 
 The mockup shows:
 
